@@ -1,0 +1,16 @@
+SMAP
+coviddatasummary_jsp.java
+JSP
+*S JSP
+*F
++ 0 coviddatasummary.jsp
+coviddatasummary.jsp
+*L
+5,32:45
+37,5:78
+41,15:83
+57,4:100
+60,16:104
+77,4:122
+80,10:126
+*E
